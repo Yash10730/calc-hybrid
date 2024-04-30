@@ -313,9 +313,10 @@ p {
     font-family: 'Poppins';
     color: #ecf1f2e7;
 }
-footer{
+/* footer{
   color:#170F1E ;
-}
+  background-color: white;
+} */
 
 .calcTheoryMarks{
     display: flex;
@@ -340,11 +341,11 @@ footer{
     width: 100%;
 }
 footer{
-    background-color: red;
     width: 100%;
     display: flex;
     justify-content: center;
     font-weight: 600;
+    color:#0e1d91 ;
    
 }
 a{
